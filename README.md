@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/JDongKhan/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JDongKhan/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+江阴地区火爆开场江苏宿迁洋河镇天之尊酒业有限公司特推出”美酒香万里，广敬百姓家”优惠活动
+1：活动期间，凡进店扫码转发微信好友，可免费领取价值98元的洋河镇私藏酒一瓶！
+2：并且可享受：只需100元即可购窑藏原浆酒一箱（6瓶）原价888元活动真实，数量有限！
+地址：江阴市永丰源大酒店（江阴市人民中路170号）
+活动时间：2020年6月2号一6月16号（早上8点一下午6:30分)
